@@ -24,3 +24,17 @@ Open terminal and navigate to the folder or path where the files are kept and ty
 sudo python3 app.py, this opens your web browser on localhost and port 80.
 
 In the case you rceieve an error OSError: [Errno 98] Address already in use, change the port in the last line of the code to your desired port
+
+# Production Use
+For production use 'only' add host='0.0.0.0' and also port=80 to the last line
+
+# Testing
+The app was tested on a Linux Kodachi Secure OS and Linux Mint
+
+# Access Live Site Via
+http://movie-sentiment.rogerkoranteng.com
+
+# Enquiries
+Email: rogerkorantenng@gmail.com
+
+Tel: +233 54 773 8808
